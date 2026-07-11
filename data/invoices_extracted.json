@@ -1,0 +1,664 @@
+[
+  {
+    "vendor": "US Foods, Inc.",
+    "date": "2026-07-09",
+    "invoice_number": "3190 0146?",
+    "file": "1cbLAgu3HOez74XfEdtxaaeWbATEsm-q5",
+    "notes": "Heavy OCR noise. Sales/order date appears as 07/05/26, shipped 07/09/26. Invoice number and order number ('ORDER NUMBER: ~4?509') are garbled - flagged. Totals reconcile: TOTAL DRY 84.08 + TOTAL REFRIGERATED 1341.10 + fuel surcharge 9.00 + CO retail delivery fee 0.31 = 1434.49 (stated estimated invoice total). Beef is catch-weight: CS 0001 = 82.00 LBS, CS 0002 = 80.20 LBS (162.20 LBS total); 162.20 x 6.2300/LB = 1010.51 confirmed by arithmetic. Extended prices for pepper/chicken/cheese are OCR-ambiguous; the three must sum to 330.59 - best readings shown, all flagged. 10 pieces ordered total (2 dry, 8 refrigerated).",
+    "line_items": [
+      {
+        "description": "SHORTENING, FRYG CNOLA LIQ CLR (HARVEST VAL)",
+        "qty": 2,
+        "pack_size": "35 LB CS",
+        "unit_price": 42.04,
+        "total": 84.08
+      },
+      {
+        "description": "PEPPER, BELL RED #2 GRD 22-28 (PACKER)",
+        "qty": "1?",
+        "pack_size": "1.1 BU CS",
+        "unit_price": null,
+        "total": "85.07? (or 84.07)"
+      },
+      {
+        "description": "CHICKEN, BRST DBL RND JMB (PATUXENT)",
+        "qty": null,
+        "pack_size": "4/10 LB CS",
+        "unit_price": null,
+        "total": "107.34? (or 187.34)"
+      },
+      {
+        "description": "CHEESE, CHEDR MILD SHRD FTHR (GLNVW FRMS)",
+        "qty": null,
+        "pack_size": "4/5 LB CS",
+        "unit_price": null,
+        "total": "139.18?"
+      },
+      {
+        "description": "BEEF, RIB LIFTER MEAT CAB RAW (PACKER) - catch weight 162.20 LBS",
+        "qty": 2,
+        "pack_size": "75 LBA CS (CS1: 82.00 LBS, CS2: 80.20 LBS)",
+        "unit_price": 6.23,
+        "total": 1010.51
+      },
+      {
+        "description": "Fuel Surcharge",
+        "qty": 1,
+        "pack_size": "",
+        "unit_price": 9.0,
+        "total": 9.0
+      },
+      {
+        "description": "CO RETAIL DEL FEE",
+        "qty": 1,
+        "pack_size": "",
+        "unit_price": 0.31,
+        "total": 0.31
+      }
+    ],
+    "invoice_total": 1434.49
+  },
+  {
+    "vendor": "Mission & Vegetable LLC",
+    "date": "2026-07-09",
+    "invoice_number": "41123",
+    "file": "1ujOtuPOCW8jJ3Z6-B8w2j3NzQhk_oixQ",
+    "notes": "4195 Oneida St Unit E, Denver CO 80216. Bill to Arepas House, Edgewater Public Market. Line items sum exactly to stated total $232.50.",
+    "line_items": [
+      {
+        "description": "morron rojo",
+        "qty": 1,
+        "pack_size": "",
+        "unit_price": 38.75,
+        "total": 38.75
+      },
+      {
+        "description": "Cebolla amarilla COLOSO",
+        "qty": 1,
+        "pack_size": "",
+        "unit_price": 25.75,
+        "total": 25.75
+      },
+      {
+        "description": "Apio",
+        "qty": 1,
+        "pack_size": "",
+        "unit_price": 27.75,
+        "total": 27.75
+      },
+      {
+        "description": "aguacte 48 verde #1 (SOLO #48 y VERDE VERDE OJOOOO)",
+        "qty": 3,
+        "pack_size": "#48 count case",
+        "unit_price": 46.75,
+        "total": 140.25
+      }
+    ],
+    "invoice_total": 232.5
+  },
+  {
+    "vendor": "Latin Market Mana (MANA Mayorista)",
+    "date": "2026-07-07",
+    "invoice_number": "SVFPDYSHPK2NC?",
+    "file": "1CGB4QA86uczrnsbX3LfneLOvEtNu8M2b",
+    "notes": "Invoice # OCR'd as '#SVFPDYSH€PK2NC' - the '€' is likely OCR noise. 8400 East Iliff Avenue, Denver CO 80231. Issue/service date Jul 7 2026, due Jul 14 2026, status Unpaid. All 5 line items verify arithmetically; subtotal = total = $688.74.",
+    "line_items": [
+      {
+        "description": "Cachapas Queso Palmita",
+        "qty": 10,
+        "pack_size": "Unit",
+        "unit_price": 13.99,
+        "total": 139.9
+      },
+      {
+        "description": "Queso de Mano 26 Oz",
+        "qty": 15,
+        "pack_size": "Unit (26 OZ)",
+        "unit_price": 11.0,
+        "total": 165.0
+      },
+      {
+        "description": "Nata Mana 32 Libras",
+        "qty": 1,
+        "pack_size": "32 LB",
+        "unit_price": 116.0,
+        "total": 116.0
+      },
+      {
+        "description": "Concentrado pina",
+        "qty": 6,
+        "pack_size": "Unit",
+        "unit_price": 15.39,
+        "total": 92.34
+      },
+      {
+        "description": "Tequenos Mana 160 Unidades",
+        "qty": 2,
+        "pack_size": "160 unidades",
+        "unit_price": 87.75,
+        "total": 175.5
+      }
+    ],
+    "invoice_total": 688.74
+  },
+  {
+    "vendor": "Clean Green",
+    "date": "2026-07-07",
+    "invoice_number": "300236676",
+    "file": "1Ew-MQeH2ll1kt_TABvFmLDKS9NNrjmX4",
+    "notes": "Linen/towel service invoice. Sales rep Gregory Ramirez. Service total $39.00 + sales tax $3.09 = $42.09. All lines verify arithmetically.",
+    "line_items": [
+      {
+        "description": "BAR TOWEL (9930) - Rent",
+        "qty": 150,
+        "pack_size": "",
+        "unit_price": 0.17,
+        "total": 25.5
+      },
+      {
+        "description": "BAR TOWEL (9930) - MMP",
+        "qty": 6,
+        "pack_size": "",
+        "unit_price": 1.11,
+        "total": 6.66
+      },
+      {
+        "description": "Delivery Charge",
+        "qty": 1,
+        "pack_size": "",
+        "unit_price": 0.31,
+        "total": 0.31
+      },
+      {
+        "description": "Delivery Charge",
+        "qty": 1,
+        "pack_size": "",
+        "unit_price": 6.53,
+        "total": 6.53
+      },
+      {
+        "description": "CO Tax (CO's)",
+        "qty": 3,
+        "pack_size": "",
+        "unit_price": null,
+        "total": 1.12
+      },
+      {
+        "description": "EDGEWATER Tax (CO32)",
+        "qty": 3,
+        "pack_size": "",
+        "unit_price": null,
+        "total": 1.78
+      },
+      {
+        "description": "JEFFERSON COUNTY Tax (COC2)",
+        "qty": 3,
+        "pack_size": "",
+        "unit_price": null,
+        "total": 0.19
+      }
+    ],
+    "invoice_total": 42.09
+  },
+  {
+    "vendor": "Restaurant Depot (Denver, 1740 W 13th Ave)",
+    "date": "2026-07-06",
+    "invoice_number": "20544606249422176",
+    "file": "12ZahXXcv13YbUO827Bb56YYxh9zd5HVL",
+    "notes": "Pickup order receipt, not a formal invoice - number shown is the Order #. Member # 65215520, customer JORGE. Paid by MasterCard xxxx-9262. Subtotal $327.34, service fee $0.00, taxes $0.00, grand total $327.34. Two lines were substituted: Seasoning Salt 20 lb substituted with 10 lb Jar (Item ID 41393) - price shown is as ordered; Canola Frying Oil substituted with 100% Canola Salad Oil 35 lbs (Item ID 1020079).",
+    "line_items": [
+      {
+        "description": "Chef's Quality - Mayonnaise - 4 gallons",
+        "qty": 3,
+        "pack_size": "4 GAL",
+        "unit_price": 44.55,
+        "total": 133.65
+      },
+      {
+        "description": "Chef's Quality - Black Beans - 25 lbs",
+        "qty": 2,
+        "pack_size": "25 LB",
+        "unit_price": 13.33,
+        "total": 26.66
+      },
+      {
+        "description": "Chef's Quality - Seasoning Salt - 20 lbs (substituted: Seasoning Salt 10 lb Jar)",
+        "qty": 1,
+        "pack_size": "20 LB",
+        "unit_price": 67.44,
+        "total": 67.44
+      },
+      {
+        "description": "Chef's Quality - Canola Frying Oil for Heavy Duty Frying - 35 lbs (substituted: 100% Canola Salad Oil 35 lbs)",
+        "qty": 2,
+        "pack_size": "35 LB",
+        "unit_price": 41.82,
+        "total": 83.64
+      },
+      {
+        "description": "Peeled Garlic",
+        "qty": 1,
+        "pack_size": "Unit",
+        "unit_price": 15.95,
+        "total": 15.95
+      }
+    ],
+    "invoice_total": 327.34
+  },
+  {
+    "vendor": "Unknown (broadline frozen-foods distributor)?",
+    "date": "06/29/26?",
+    "invoice_number": "?",
+    "file": "07-03-2026_002.pdf",
+    "notes": "Severe OCR noise (garbled multibyte characters). Ship-to is Arepas House, 20th Ave, Edgewater CO. Section header FROZEN; 10 pieces ordered / 10 pieces shipped. Product total appears as $512.5? (flagged). A small charge line ~$4.28? also appears. Order/invoice number garbled ('Z 1..S] B2.1'). Vendor name not legible anywhere on the OCR text.",
+    "line_items": [
+      {
+        "description": "YUCA, FF CKD BAG FZN (verbatim OCR: 'YWCA, FF CKD BAG FZN 20/1 1_B')",
+        "qty": "?",
+        "pack_size": "20/1 LB",
+        "unit_price": "?",
+        "total": "?"
+      },
+      {
+        "description": "PLANTAIN, S? ... IQF (verbatim OCR: '\"ANTAXN, Si.\" \"T N\" \"!] IQF4/d LB') — likely PLANTAIN, SWEET IQF 4/6 LB?",
+        "qty": "?",
+        "pack_size": "4/6 LB?",
+        "unit_price": "?",
+        "total": "?"
+      }
+    ],
+    "invoice_total": "512.5??"
+  },
+  {
+    "vendor": "Prudential Overall Supply (CLEANGREEN)",
+    "date": "06/30/2026",
+    "invoice_number": "300236226",
+    "file": "07-03-2026_001.pdf",
+    "notes": "Linen/towel rental service invoice. Service Total $38.97 + Sales Tax $3.09 = Invoice Total $42.06. Tax lines (CO $1.12, Edgewater $1.78, Jefferson County $0.19) sum to the $3.09 sales tax and are listed separately below.",
+    "line_items": [
+      {
+        "description": "9930 BAR TOWEL Rent",
+        "qty": "150?",
+        "pack_size": "each (rental)",
+        "unit_price": 0.171,
+        "total": 25.5
+      },
+      {
+        "description": "9930 BAR TOWEL MMP",
+        "qty": 6,
+        "pack_size": "each",
+        "unit_price": 1.11,
+        "total": 6.66
+      },
+      {
+        "description": "Delivery Charge",
+        "qty": 1,
+        "pack_size": "",
+        "unit_price": 0.28,
+        "total": 0.28
+      },
+      {
+        "description": "Delivery Charge",
+        "qty": 1,
+        "pack_size": "",
+        "unit_price": 6.53,
+        "total": 6.53
+      }
+    ],
+    "taxes": [
+      {
+        "description": "CO CO Tax",
+        "total": 1.12
+      },
+      {
+        "description": "CO32 EDGEWATER Tax",
+        "total": 1.78
+      },
+      {
+        "description": "COC2 JEFFERSON COUNTY Tax",
+        "total": 0.19
+      }
+    ],
+    "invoice_total": 42.06
+  },
+  {
+    "vendor": "Latin Market Mana (Mayorista)",
+    "date": "2026-07-01",
+    "invoice_number": "GZS4NEZH3S33E",
+    "file": "07-03-2026.pdf",
+    "notes": "Issue/Service date Jul 1, 2026; Due Jul 8, 2026; Status Unpaid. Subtotal = Total = $583.24.",
+    "line_items": [
+      {
+        "description": "Concentrado de pina 1 Galon",
+        "qty": 6,
+        "pack_size": "1 Galon (Unit)",
+        "unit_price": 15.39,
+        "total": 92.34
+      },
+      {
+        "description": "Cachapas Queso Palmita",
+        "qty": 10,
+        "pack_size": "Unit",
+        "unit_price": 13.99,
+        "total": 139.9
+      },
+      {
+        "description": "Tequenos Mana 160 Unidades",
+        "qty": 4,
+        "pack_size": "160 Unidades (Unit)",
+        "unit_price": 87.75,
+        "total": 351.0
+      }
+    ],
+    "invoice_total": 583.24
+  },
+  {
+    "vendor": "Latin Market Mana (Mayorista)",
+    "date": "2026-07-04",
+    "invoice_number": "0RJ9HAABW6KF8",
+    "file": "07-06-2026.pdf",
+    "notes": "Issue/Service date Jul 4, 2026; Due Jul 11, 2026; Status Unpaid. Subtotal = Total = $307.80.",
+    "line_items": [
+      {
+        "description": "Concentrado de Parchita 1 Galon",
+        "qty": 20,
+        "pack_size": "1 Galon (Unit)",
+        "unit_price": 15.39,
+        "total": 307.8
+      }
+    ],
+    "invoice_total": 307.8
+  },
+  {
+    "vendor": "Mission & Vegetable LLC",
+    "date": "2026-06-25",
+    "invoice_number": "40457",
+    "file": "06-25-2026_001.pdf",
+    "total": 168.75,
+    "line_items": [
+      {
+        "description": "morron rojo",
+        "qty": 2,
+        "pack_size": null,
+        "unit_price": 35.75,
+        "total": 71.5
+      },
+      {
+        "description": "Cebolla amarilla COLOSO",
+        "qty": 1,
+        "pack_size": null,
+        "unit_price": 25.75,
+        "total": 25.75
+      },
+      {
+        "description": "Apio bueno nuevo fresco",
+        "qty": 1,
+        "pack_size": null,
+        "unit_price": 27.75,
+        "total": 27.75
+      },
+      {
+        "description": "habanero",
+        "qty": 1,
+        "pack_size": null,
+        "unit_price": 43.75,
+        "total": 43.75
+      }
+    ]
+  },
+  {
+    "vendor": "Latin Market Mana (MAYORISTA)",
+    "date": "2026-06-23",
+    "invoice_number": "PSEKS3P317GJR",
+    "file": "06-25-2026.pdf (page 1 of combined scan)",
+    "total": 1081.8,
+    "line_items": [
+      {
+        "description": "Cachapas Queso Palmita",
+        "qty": 20,
+        "pack_size": "Unit",
+        "unit_price": 13.99,
+        "total": 279.8
+      },
+      {
+        "description": "Queso de Mano 26 Oz",
+        "qty": 20,
+        "pack_size": "26 OZ",
+        "unit_price": 11.0,
+        "total": 220.0
+      },
+      {
+        "description": "Nata Mana 32 Libras",
+        "qty": 1,
+        "pack_size": "32 LB",
+        "unit_price": 116.0,
+        "total": 116.0
+      },
+      {
+        "description": "Tequenos Mana 160 Unidades",
+        "qty": 4,
+        "pack_size": "160 UN",
+        "unit_price": 87.75,
+        "total": 351.0
+      },
+      {
+        "description": "Frescolita Lata 24 x 12 Onzas",
+        "qty": 5,
+        "pack_size": "24/12 OZ",
+        "unit_price": 23.0,
+        "total": 115.0
+      }
+    ]
+  },
+  {
+    "vendor": "Prudential Overall Supply",
+    "date": "2026-06-23",
+    "invoice_number": "300235790",
+    "file": "06-25-2026.pdf (page 2 of combined scan)",
+    "total": 42.06,
+    "line_items": [
+      {
+        "description": "9930 BAR TOWEL (Rent)",
+        "qty": 150,
+        "pack_size": null,
+        "unit_price": 0.17,
+        "total": 25.5
+      },
+      {
+        "description": "9930 BAR TOWEL (MMP)",
+        "qty": 6,
+        "pack_size": null,
+        "unit_price": 1.11,
+        "total": 6.66
+      },
+      {
+        "description": "CO State Tax",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 1.12
+      },
+      {
+        "description": "EDGEWATER Tax",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 1.78
+      },
+      {
+        "description": "JEFFERSON COUNTY Tax",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 0.19
+      },
+      {
+        "description": "Delivery Charge",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 0.28
+      },
+      {
+        "description": "Delivery Charge",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 6.53
+      }
+    ]
+  },
+  {
+    "vendor": "Prudential Overall Supply",
+    "date": "2026-06-16",
+    "invoice_number": "300235351",
+    "file": "06-19-2026_001.pdf",
+    "total": 42.06,
+    "line_items": [
+      {
+        "description": "9930 BAR TOWEL (Rent)",
+        "qty": 150,
+        "pack_size": null,
+        "unit_price": 0.17,
+        "total": 25.5
+      },
+      {
+        "description": "9930 BAR TOWEL (MMP)",
+        "qty": 6,
+        "pack_size": null,
+        "unit_price": 1.11,
+        "total": 6.66
+      },
+      {
+        "description": "CO State Tax",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 1.12
+      },
+      {
+        "description": "EDGEWATER Tax",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 1.78
+      },
+      {
+        "description": "JEFFERSON COUNTY Tax",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 0.19
+      },
+      {
+        "description": "Delivery Charge",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 0.28
+      },
+      {
+        "description": "Delivery Charge",
+        "qty": null,
+        "pack_size": null,
+        "unit_price": null,
+        "total": 6.53
+      }
+    ]
+  },
+  {
+    "vendor": "Latin Market Mana (MAYORISTA)",
+    "date": "2026-06-15",
+    "invoice_number": "JZTX98TS8R1XW",
+    "file": "06-19-2026.pdf",
+    "total": 116.0,
+    "line_items": [
+      {
+        "description": "Nata Mana 32 Libras",
+        "qty": 1,
+        "pack_size": "32 LB",
+        "unit_price": 116.0,
+        "total": 116.0
+      }
+    ]
+  },
+  {
+    "vendor": "Latin Market Mana (MAYORISTA)",
+    "date": "2026-06-12",
+    "invoice_number": "VA375MKQ3HGWG",
+    "file": "06-12-2026 Latin Mana Invoice VA375MKQ3HGWG.pdf",
+    "total": 1138.26,
+    "line_items": [
+      {
+        "description": "Cocosette 18 x 50 Gr",
+        "qty": 2,
+        "pack_size": "18/50 G",
+        "unit_price": 14.73,
+        "total": 29.46
+      },
+      {
+        "description": "Samba Chocolate 20 x 32 Gr",
+        "qty": 5,
+        "pack_size": "20/32 G",
+        "unit_price": 18.81,
+        "total": 94.05
+      },
+      {
+        "description": "CriCri 27Gr x 12 Unidades",
+        "qty": 3,
+        "pack_size": "12/27 G",
+        "unit_price": 11.93,
+        "total": 35.79
+      },
+      {
+        "description": "Milk Savoy 12 x 30 Gr",
+        "qty": 3,
+        "pack_size": "12/30 G",
+        "unit_price": 13.5,
+        "total": 40.5
+      },
+      {
+        "description": "Pirucream 300 Gr",
+        "qty": 5,
+        "pack_size": "300 G",
+        "unit_price": 6.97,
+        "total": 34.85
+      },
+      {
+        "description": "Galak Chocolate 12 x 30 Gr",
+        "qty": 2,
+        "pack_size": "12/30 G",
+        "unit_price": 11.93,
+        "total": 23.86
+      },
+      {
+        "description": "Tequenos Mana 160 Unidades",
+        "qty": 4,
+        "pack_size": "160 UN",
+        "unit_price": 87.75,
+        "total": 351.0
+      },
+      {
+        "description": "Cachapas Queso Palmita",
+        "qty": 15,
+        "pack_size": "Unit",
+        "unit_price": 13.99,
+        "total": 209.85
+      },
+      {
+        "description": "Queso de Mano 26 Oz",
+        "qty": 15,
+        "pack_size": "26 OZ",
+        "unit_price": 11.0,
+        "total": 165.0
+      },
+      {
+        "description": "Concentrado de Parchita 1 Galon",
+        "qty": 10,
+        "pack_size": "1 GAL",
+        "unit_price": 15.39,
+        "total": 153.9
+      }
+    ]
+  }
+]
